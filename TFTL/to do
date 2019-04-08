@@ -1,0 +1,7 @@
+bias-variance diagnostics
+
+J vs lambda2 plots to determine high-bias or high-variance model for the data
+
+J vs N plots to determine high-bias or high-variance model for the data
+-iteratively through all N points
+-shuffled with repetitions
